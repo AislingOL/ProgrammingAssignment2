@@ -1,3 +1,5 @@
+Programming Assignment 2 - JHU coursera
+
 ### Introduction
 
 This second programming assignment will require you to write an R
